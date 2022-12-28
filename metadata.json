@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "currentGen": "1",
+  "generations": {
+    "1": {
+      "path": "/nix/store/vn99fbi7k8wbxb67czqa7m94d0w3y32b-profile",
+      "logMessage": [
+        "itest installed stable.nixpkgs-flox.nyancat"
+      ],
+      "created": 1672255379,
+      "lastActive": 1672255379
+    }
+  }
+}
